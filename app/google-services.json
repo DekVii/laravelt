@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "294300915939",
+    "firebase_url": "https://laravelt00.firebaseio.com",
+    "project_id": "laravelt00",
+    "storage_bucket": "laravelt00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294300915939:android:dc4fd52e953e02a0648dd6",
+        "android_client_info": {
+          "package_name": "com.dekvii.LARAVELT"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294300915939-vktk0fjsh7rnf2s46bnk30pqfou27af2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dekvii.LARAVELT",
+            "certificate_hash": "4669fed92823f329f8dada0c7ef950519b83bf1c"
+          }
+        },
+        {
+          "client_id": "294300915939-uag55v509hiakqtfong7is2j40rsgimv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOiT2C2n6VaysI9bHv8e7omRl4o-eaK_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294300915939-uag55v509hiakqtfong7is2j40rsgimv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

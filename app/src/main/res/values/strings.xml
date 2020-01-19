@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">LARAVELT</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_nav">Menu</string>
+    <string name="account_nav">Account</string>
+    <string name="cart_nav">Cart</string>
+    <string name="highlight_nav">Highlight</string>
+    <string name="category_nav">Category</string>
+    <string name="cream_category">Cream</string>
+    <string name="scincare_category">Scincare</string>
+    <string name="mask_category">Mask</string>
+    <string name="facial_treatment_category">Facial Treatment</string>
+    <string name="hair_treatment_category">Hair Treatment</string>
+    <string name="parfume_category">Parfume</string>
+    <string name="natural_product_category">Natural Product</string>
+    <string name="nail_polish_category">Nail Polish</string>
+</resources>
