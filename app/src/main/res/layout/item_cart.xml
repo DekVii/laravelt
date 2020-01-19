@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="6dp"
+    app:cardElevation="3dp"
+    app:cardUseCompatPadding="true"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/img_cart"
+            android:layout_width="120dp"
+            android:layout_height="100dp"
+            android:gravity="center"
+            android:padding="20dp"/>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/product_cart"
+                android:layout_width="264dp"
+                android:layout_height="70dp"
+                android:padding="5dp"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/price_cart"
+                android:layout_width="264dp"
+                android:layout_height="wrap_content"
+                android:padding="4dp"
+                android:textSize="15dp" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/amount_cart"
+            android:layout_width="20dp"
+            android:layout_height="100dp"
+            android:textSize="20dp"
+            android:padding="20dp"/>
+
+
+
+    </LinearLayout>
+</ScrollView>
